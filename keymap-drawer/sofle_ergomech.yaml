@@ -48,7 +48,7 @@ layers:
   - .
   - /
   - '-'
-  - {t: ▽, type: trans}
+  - MUTE
   - LGUI
   - LALT
   - LCTRL
@@ -178,7 +178,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: Bluetooth, h: toggle}
+  - MUTE
   - LEFT GUI
   - RIGHT ALT
   - RCTRL
@@ -189,7 +189,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: ▽, type: trans}
+  - {t: Bluetooth, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
